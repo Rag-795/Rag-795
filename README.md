@@ -14,12 +14,17 @@
 <img align="right" alt="Coding-gif" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
 <br><br>
-- 🌱 I’m currently learning **REACT JS** <img src="assets/reactLogo.gif" width="3%">
-- 👀 I’m interested in **UI/UX design**
-- 🔭 I’m currently working on **My Portfolio Website**
-- 📫 How to reach me :- raghavnagarajan23@gmail.com
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: ***It’s all 0’s and 1’s***
+- #### 🌱 I’m currently learning **REACT JS**
+
+- #### 👀 I’m interested in **UI/UX design**
+ 
+- #### 🔭 I’m currently working on **My Portfolio Website**
+  
+- #### 📫 How to reach me :- raghavnagarajan23@gmail.com
+  
+- #### 😄 Pronouns: **He/Him**
+  
+- #### ⚡ Fun fact: ***It’s all 0’s and 1’s***
 
 
 </div>
