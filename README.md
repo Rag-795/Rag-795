@@ -69,7 +69,18 @@
   </tr>
 </table>
 
-<img width="100%" loading="lazy" src="assets/rainbow-superthin.gif">
+<img width="100%" loading="lazy" src="assets/rainbow-superthin.gif"/>
+
+##  LeetCode Badges:
+<div align="center">
+ <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "80"/>
+ <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" width = "80"/>
+ <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" width = "80"/>
+ <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" width = "80"/>
+ <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width = "80"/>
+ <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width = "80"/>
+</div>
+
 
 <br><br>
 
